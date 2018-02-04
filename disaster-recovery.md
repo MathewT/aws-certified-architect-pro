@@ -18,6 +18,10 @@
 
 ![Pilot Light Preparation](https://github.com/MathewT/aws-certified-architect-pro/blob/master/upload/pilot-light-preparation.PNG)
 
+![DR Scenario: Warm Standby](https://github.com/MathewT/aws-certified-architect-pro/blob/master/upload/warm-standby-1.PNG)
+
+
+
 
 
 

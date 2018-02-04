@@ -10,6 +10,10 @@
 
 ![DR Scenario: Backup and Restore](https://github.com/MathewT/aws-certified-architect-pro/blob/master/upload/backup-restore-scenario.PNG)
 
+![Backup and Restore 2](https://github.com/MathewT/aws-certified-architect-pro/blob/master/upload/backup-restore-scenario-2.PNG)
+
+
+
 
 
 

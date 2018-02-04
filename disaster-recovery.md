@@ -14,6 +14,10 @@
 
 ![DR Scenario: Pilot Light](https://github.com/MathewT/aws-certified-architect-pro/blob/master/upload/pilot-light-scenario.PNG)
 
+![Pilot Light Example](https://github.com/MathewT/aws-certified-architect-pro/blob/master/upload/pilot-light-example-1.PNG)
+
+
+
 
 
 

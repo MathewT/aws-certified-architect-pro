@@ -26,6 +26,10 @@
 
 ![DR Scenario: Multi Site](https://github.com/MathewT/aws-certified-architect-pro/blob/master/upload/multi-site-dr-scenario-1.PNG)
 
+![Multi Site Example 1](https://github.com/MathewT/aws-certified-architect-pro/blob/master/upload/multi-site-example-1.PNG)
+
+
+
 
 
 

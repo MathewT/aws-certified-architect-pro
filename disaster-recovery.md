@@ -6,4 +6,8 @@
 
 ![AWS for DR](https://github.com/MathewT/aws-certified-architect-pro/blob/master/upload/aws-for-dr.PNG)
 
+![AWS DR Scenarios](https://github.com/MathewT/aws-certified-architect-pro/blob/master/upload/dr-scenarios.PNG)
+
+
+
 

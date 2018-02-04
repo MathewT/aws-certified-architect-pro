@@ -20,6 +20,10 @@
 
 ![DR Scenario: Warm Standby](https://github.com/MathewT/aws-certified-architect-pro/blob/master/upload/warm-standby-1.PNG)
 
+![Warm Standby 2](https://github.com/MathewT/aws-certified-architect-pro/blob/master/upload/warm-standby-2.PNG)
+
+
+
 
 
 

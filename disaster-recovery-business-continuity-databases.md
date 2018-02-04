@@ -10,6 +10,10 @@
 
 ![Read Replica Supported Versions](https://github.com/MathewT/aws-certified-architect-pro/blob/master/upload/read-replica-supported-versions.PNG)
 
+![Multi Region Read Replicas](https://github.com/MathewT/aws-certified-architect-pro/blob/master/upload/multi-region-read-replicas.PNG)
+
+
+
 
 
 

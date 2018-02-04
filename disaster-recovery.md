@@ -22,6 +22,10 @@
 
 ![Warm Standby 2](https://github.com/MathewT/aws-certified-architect-pro/blob/master/upload/warm-standby-2.PNG)
 
+![Warm Standby Example 1](https://github.com/MathewT/aws-certified-architect-pro/blob/master/upload/warm-standby-example-1.PNG)
+
+
+
 
 
 

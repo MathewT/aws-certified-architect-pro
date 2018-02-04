@@ -32,6 +32,10 @@
 
 ![DR Backup Technologies](https://github.com/MathewT/aws-certified-architect-pro/blob/master/upload/dr-backup-technologies.PNG)
 
+![DR Backup Technologies 2](https://github.com/MathewT/aws-certified-architect-pro/blob/master/upload/dr-backup-technologies-2.PNG)
+
+
+
 
 
 

@@ -24,6 +24,10 @@
 
 ![Warm Standby Example 1](https://github.com/MathewT/aws-certified-architect-pro/blob/master/upload/warm-standby-example-1.PNG)
 
+![DR Scenario: Multi Site](https://github.com/MathewT/aws-certified-architect-pro/blob/master/upload/multi-site-dr-scenario-1.PNG)
+
+
+
 
 
 

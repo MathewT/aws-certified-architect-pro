@@ -12,6 +12,10 @@
 
 ![Backup and Restore 2](https://github.com/MathewT/aws-certified-architect-pro/blob/master/upload/backup-restore-scenario-2.PNG)
 
+![DR Scenario: Pilot Light](https://github.com/MathewT/aws-certified-architect-pro/blob/master/upload/pilot-light-scenario.PNG)
+
+
+
 
 
 

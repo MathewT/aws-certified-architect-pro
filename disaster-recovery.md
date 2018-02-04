@@ -8,6 +8,10 @@
 
 ![AWS DR Scenarios](https://github.com/MathewT/aws-certified-architect-pro/blob/master/upload/dr-scenarios.PNG)
 
+![DR Scenario: Backup and Restore](https://github.com/MathewT/aws-certified-architect-pro/blob/master/upload/backup-restore-scenario.PNG)
+
+
+
 
 
 

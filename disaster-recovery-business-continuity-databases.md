@@ -16,7 +16,7 @@
 
 ![Read Replica Exam Tips](https://github.com/MathewT/aws-certified-architect-pro/blob/master/upload/read-replica-exam-tips.PNG)
 
-![Read Replica Exam Tips 2](https://github.com/MathewT/aws-certified-architect-pro/blob/master/upload/read-replica-exam-tips-2.PNG)
+![Read Replica Exam Tips 2](https://github.com/MathewT/aws-certified-architect-pro/blob/master/upload/read-replica-exam-tips-3.PNG)
 
 
 

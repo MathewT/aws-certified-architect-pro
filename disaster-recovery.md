@@ -30,6 +30,10 @@
 
 ![Exam Tip 1](https://github.com/MathewT/aws-certified-architect-pro/blob/master/upload/exam-tip-1.PNG)
 
+![DR Backup Technologies](https://github.com/MathewT/aws-certified-architect-pro/blob/master/upload/dr-backup-technologies.PNG)
+
+
+
 
 
 

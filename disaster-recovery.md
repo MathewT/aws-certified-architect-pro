@@ -16,6 +16,10 @@
 
 ![Pilot Light Example](https://github.com/MathewT/aws-certified-architect-pro/blob/master/upload/pilot-light-example-1.PNG)
 
+![Pilot Light Preparation](https://github.com/MathewT/aws-certified-architect-pro/blob/master/upload/pilot-light-preparation.PNG)
+
+
+
 
 
 

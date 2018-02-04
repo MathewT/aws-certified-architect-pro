@@ -28,6 +28,10 @@
 
 ![Multi Site Example 1](https://github.com/MathewT/aws-certified-architect-pro/blob/master/upload/multi-site-example-1.PNG)
 
+![Exam Tip 1](https://github.com/MathewT/aws-certified-architect-pro/blob/master/upload/exam-tip-1.PNG)
+
+
+
 
 
 

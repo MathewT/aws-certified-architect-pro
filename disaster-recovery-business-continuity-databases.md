@@ -8,6 +8,10 @@
 
 ![Read Replica Use Cases](https://github.com/MathewT/aws-certified-architect-pro/blob/master/upload/read-replica-use-cases.PNG)
 
+![Read Replica Supported Versions](https://github.com/MathewT/aws-certified-architect-pro/blob/master/upload/read-replica-supported-versions.PNG)
+
+
+
 
 
 

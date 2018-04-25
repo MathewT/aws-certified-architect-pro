@@ -1,6 +1,10 @@
 # aws-certified-architect-pro
 My study guide. 
 
+## Exam and Certification Web Page
+https://aws.amazon.com/certification/certified-solutions-architect-professional/
+
+
 ## Index
 
 ### Disaster Recovery

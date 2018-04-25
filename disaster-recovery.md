@@ -1,7 +1,7 @@
 # Disaster Recovery
 
 ### AWS Disaster Recovery White Paper
-![AWS](http://d36cz9buwru1tt.cloudfront.net/AWS_Disaster_Recovery.pdf)
+(http://d36cz9buwru1tt.cloudfront.net/AWS_Disaster_Recovery.pdf)
 
 ![RTO](https://github.com/MathewT/aws-certified-architect-pro/blob/master/upload/rto.PNG)
 

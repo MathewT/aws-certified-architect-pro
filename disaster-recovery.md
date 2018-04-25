@@ -35,6 +35,8 @@ http://d36cz9buwru1tt.cloudfront.net/AWS_Disaster_Recovery.pdf
 
 ![Warm Standby Example 1](https://github.com/MathewT/aws-certified-architect-pro/blob/master/upload/warm-standby-example-1.PNG)
 
+![Warm Standby Prep](https://github.com/MathewT/aws-certified-architect-pro/blob/master/upload/warm-standby-prep.PNG)
+
 ![DR Scenario: Multi Site](https://github.com/MathewT/aws-certified-architect-pro/blob/master/upload/multi-site-dr-scenario-1.PNG)
 
 ![Multi Site Example 1](https://github.com/MathewT/aws-certified-architect-pro/blob/master/upload/multi-site-example-1.PNG)
@@ -44,33 +46,5 @@ http://d36cz9buwru1tt.cloudfront.net/AWS_Disaster_Recovery.pdf
 ![DR Backup Technologies](https://github.com/MathewT/aws-certified-architect-pro/blob/master/upload/dr-backup-technologies.PNG)
 
 ![DR Backup Technologies 2](https://github.com/MathewT/aws-certified-architect-pro/blob/master/upload/dr-backup-technologies-2.PNG)
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 

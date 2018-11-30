@@ -6,3 +6,6 @@
 
 ![DS](https://github.com/MathewT/aws-certified-architect-pro/blob/master/Data_Storage/data-storage-short-term-storage.PNG)
 
+![DS](https://github.com/MathewT/aws-certified-architect-pro/blob/master/Data_Storage/data-storage-database-tradeoffs.PNG)
+
+
